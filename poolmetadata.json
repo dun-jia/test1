@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "LGBTQ+",
+"description": "A pool for all Orientations",
+"ticker": "MPN",
+"homepage": "TBD"
+}
+EOF
